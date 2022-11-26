@@ -1,0 +1,44 @@
+.grid {
+  display: grid;
+}
+.h {
+  text-align: left;
+  padding-left: 3%;
+  font-family: serif;
+}
+
+.logo {
+  text-align: left;
+  padding-left: 1%;
+  margin-top: 3%;
+  border: 0.5px solid black;
+  font-family: serif;
+  width: 100%;
+}
+.span {
+  font-size: large;
+  font-weight: bold;
+  font-family: serif;
+}
+.list {
+  text-align: left;
+  position: absolute;
+  padding-left: 1%;
+  margin-top: 9.6%;
+  padding-bottom: 40%;
+  width: 30%;
+  border: 0.5px solid black;
+  font-family: serif;
+  list-style-type: none;
+  padding-top: 2%; 
+}
+Link:hover {
+  display: block;
+  position: relative;
+  /* background: gray; */
+  border: 1px solid black;
+  font-weight: bold;
+  font-family: serif;
+  width: 99.9%;
+  padding-left: 0%;
+}

@@ -1,19 +1,239 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    
+      {
+        "userId": 1,
+        "loan_id": 12345,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": false,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 2,
+        "loan_id": 12435,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+		"first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 3,
+        "loan_id": 16543,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 4,
+        "loan_id": 17654,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 5,
+        "loan_id": 19876,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 6,
+        "loan_id": 19834,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 7,
+        "loan_id": 159874,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 8,
+        "loan_id": 13498,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 9,
+        "loan_id": 12875,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 10,
+        "loan_id": 105643,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 11,
+        "loan_id": 11987,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+        "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 12,
+        "loan_id": 122345,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 13,
+        "loan_id": 13985,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 14,
+        "loan_id": 14236,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 15,
+        "loan_id": 159245,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+		"options":true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 16,
+        "loan_id": 161392,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+		"options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 17,
+        "loan_id": 17248,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+		"options":true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 18,
+        "loan_id": 182345,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 19,
+        "loan_id": 191942,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+		"options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 20,
+        "loan_id": 201973,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      },
+      {
+        "userId": 21,
+        "loan_id": 541973,
+        "purpose": "for personal reasone",
+        "status": "In progress",
+	    "options": true,
+        "first":"Megha",
+		"last":"Kale",
+		"Email":"Megha@gmail.com",
+		"resion":"pandharpur"
+      }
+     
+     
+  ]
+ 
 }
